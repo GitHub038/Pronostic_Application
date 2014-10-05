@@ -7,7 +7,7 @@ package application_pronostics;
 
 /*
  *
- * @author Salim O.
+ * @author Salim O.k
  *  
  */
 import interface_graphique.Identification;
