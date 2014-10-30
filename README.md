@@ -4,8 +4,8 @@ Pronostic_Application
 
 Overall Description 
 -------------------
-Application wich give the possibiliy to create .csv with your soccer prediction. 
-You can also load other pronostics save as .csv form and consult your ranking. 
+This application give you the possibiliy to create .csv from your soccer predictions. 
+You can also load otherq pronostics save as .csv form and consult your ranking. 
 
 
 
